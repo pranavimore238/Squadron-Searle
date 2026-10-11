@@ -1,0 +1,7 @@
+# Abstract (draft)
+
+The Chinese Room thought experiment, introduced by John R. Searle, challenges the claim that executing a computer program is sufficient for understanding. It distinguishes the formal manipulation of symbols (syntax) from meaning or intentionality (semantics). This project proposes an interactive educational website that introduces the thought experiment and lets users explore a transparent, deterministic rule-based simulator. The simulator accepts text, applies a small set of predefined keyword rules, and returns prepared responses while identifying the rule used. Supporting sections explain syntax, semantics, intentionality, and a counterargument such as the systems reply. A short quiz checks users' understanding of the central distinction. The application is designed as a lightweight static website using HTML, CSS, and JavaScript, with no external AI API or backend required. The project is educational rather than experimental: it does not measure consciousness, settle the Chinese Room debate, or establish conclusions about contemporary AI systems. Its intended contribution is to make the structure of Searle's argument easier to inspect while presenting its limits and objections clearly.
+
+**Keywords:** Chinese Room, John Searle, artificial intelligence, syntax, semantics, intentionality, educational software.
+
+**Status note:** This abstract is a proposal draft based on the available squad topic, not a confirmed BTU submission format. Revise it after confirming the assignment rubric and the final implemented features.
